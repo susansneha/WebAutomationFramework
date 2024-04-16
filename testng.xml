@@ -3,7 +3,7 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="D:/ATB5x/WebAutomationFramework">
         <classes>
-            <class name="org.example.tests.TestVWOlogin">
+            <class name="org.example.tests.TestVWOLoginPOMBaseTest">
 
             </class>
         </classes>

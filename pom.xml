@@ -37,7 +37,7 @@
       <groupId>org.testng</groupId>
       <artifactId>testng</artifactId>
       <version>7.10.1</version>
-      <scope>test</scope>
+      <scope>compile</scope>
     </dependency>
     <!-- https://mvnrepository.com/artifact/io.qameta.allure/allure-testng -->
     <dependency>
@@ -46,6 +46,12 @@
       <version>2.27.0</version>
     </dependency>
 
+    <dependency>
+      <groupId>org.assertj</groupId>
+      <artifactId>assertj-core</artifactId>
+      <version>3.25.1</version>
+      <scope>test</scope>
+    </dependency>
 
 
 
